@@ -9,7 +9,7 @@ In **Week 1**, the focus was on foundational Python libraries:
 - [**Pandas**](https://pandas.pydata.org/docs/): Data manipulation using DataFrames.
 - [**Matplotlib**](https://matplotlib.org/stable/index.html): Visualization and plotting.
 
-## Week 2: Two-Body Problem Simulation
+## Week 2: Building models from scratch
 In **Week 2**, we applied the libraries learned in Week 1 to build a **Logistical Regression Model** and a **Support Vector Machine** from scratch:
 - [**Logistical Regression**](https://www.geeksforgeeks.org/implementation-of-logistic-regression-from-scratch-using-python/): Implementing logistical regression algorithm on the breast cancer dataset from **scikit-learn**.
 - [**Support Vector Machine**](https://www.geeksforgeeks.org/support-vector-machine-algorithm/): Building a SVM, trainining it on custom data and plotting the results.
